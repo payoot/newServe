@@ -1,0 +1,23 @@
+{
+    "name": "y",
+    "version": "1.0.0",
+    "description": "new server",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/payoot/TestProject.git"
+    },
+    "author": "",
+    "type": "module",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/payoot/TestProject/issues"
+    },
+    "homepage": "https://github.com/payoot/TestProject#readme",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+}
