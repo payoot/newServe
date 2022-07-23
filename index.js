@@ -5,15 +5,9 @@ import bodyParser from "body-parser";
 import fetch, {
     Headers
 } from "node-fetch";
-// import {Headers} from 'node-fetch';
 import cors from 'cors';
-
 const PORT = 3000;
 const app = express();
-const _status = [];
-const obj = {};
-
-
 
 
 app.use(cors())
